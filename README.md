@@ -39,7 +39,7 @@ npm install
 ```bash
 npm start
 ```
-##🧑‍💻 Author
+## Author
 
 ### Haid Solutions
 🌐 haidsolutions.netlify.app
