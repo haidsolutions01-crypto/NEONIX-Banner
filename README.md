@@ -26,16 +26,18 @@ This banner blends **cyberpunk visuals**, **smooth motion effects**, and **clean
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/yourusername/neonix-hero-banner.git
-
-2️⃣ Navigate to Project Directory
+```
+### 2️⃣ Navigate to Project Directory
+```bash
 cd neonix-hero-banner
-
-3️⃣ Install Dependencies
+```
+### 3️⃣ Install Dependencies
+```bash
 npm install
-
-4️⃣ Start the Development Server
+```
+### 4️⃣ Start the Development Server
+```bash
 npm start
+```
 
-
-✅ Your app will now run on http://localhost:3000
 
