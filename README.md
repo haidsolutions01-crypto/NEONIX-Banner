@@ -39,5 +39,13 @@ npm install
 ```bash
 npm start
 ```
+##🧑‍💻 Author
+
+### Haid Solutions
+🌐 haidsolutions.netlify.app
+
+📧 contact@haidsolutions.com
+
+💼 Web Development • Branding • Digital Solutions
 
 
